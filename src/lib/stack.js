@@ -30,4 +30,4 @@ module.exports = class Stack {
     }
     return false;
   }
-}
+};

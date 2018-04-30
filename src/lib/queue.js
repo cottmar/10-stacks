@@ -18,7 +18,7 @@ class Queue {
   }
 
   isEmpty() {
-    return !this._stoage; //this is not 100%
+    return !this._storage; 
   }
 }
 

@@ -7,8 +7,8 @@
     "test": "eslint . && jest --coverage"
   },
   "keywords": [],
-  "author": "Cara Ottmar",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "babel-eslint": "^8.2.3",
     "babel-preset-env": "^1.6.1",
